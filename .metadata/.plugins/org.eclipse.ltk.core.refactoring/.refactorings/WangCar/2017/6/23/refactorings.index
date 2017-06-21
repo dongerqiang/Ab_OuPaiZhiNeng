@@ -1,0 +1,11 @@
+1496648110035	Rename package 'com.wang.android.mode.net.response'
+1496648134996	Rename package 'com.wang.android.mode.activity'
+1496648147068	Rename package 'com.wang.android.mode.ble'
+1496648157893	Rename package 'com.wang.android.mode.fragment'
+1496648186470	Rename package 'com.wang.android.mode.net.data'
+1496648195713	Rename package 'com.wang.android.mode.net'
+1496648215272	Rename package 'com.wang.android.mode.utils'
+1496648238307	Rename package 'com.wang.android.mode.view.wheel'
+1496648248379	Rename package 'com.wang.android.mode.interfaces'
+1496648333798	Move compilation units
+1496648648550	Delete element
