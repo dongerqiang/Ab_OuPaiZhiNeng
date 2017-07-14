@@ -9,13 +9,13 @@
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
 			<item value=".wang."/>
+			<item value="JPUSH_MESSAGE"/>
+			<item value="wang."/>
 			<item value="parserData"/>
 			<item value="isStart"/>
 			<item value="bleStateReceiver"/>
 			<item value="BleStateReceiver"/>
 			<item value="currentSpeed"/>
-			<item value="findMileAgeTextViewChild"/>
-			<item value="mileAgeTv"/>
 		</list>
 		<list key="replacehistory">
 			<item value=".opa."/>
