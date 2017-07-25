@@ -31,7 +31,6 @@
 <fullyQualifiedTypeName name="android.view.inputmethod.EditorInfo"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="com.fu.baseframe.utils.LogUtils"/>
-<fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="org.androidannotations.annotations.ViewById"/>
 <fullyQualifiedTypeName name="org.androidannotations.annotations.EActivity"/>
 <fullyQualifiedTypeName name="com.wang.android.R"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="com.wang.android.MyApplication"/>
 <fullyQualifiedTypeName name="android.support.v4.content.CursorLoader"/>
 <fullyQualifiedTypeName name="com.opa.android.mode.utils.ToastB"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
 </qualifiedTypeNameHistroy>
